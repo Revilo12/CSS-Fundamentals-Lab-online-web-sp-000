@@ -33,7 +33,7 @@ section#featured-property p {
 
 section#details {
   display: block;
-  text-align: center;
+  margin: auto;
 }
 
 section#details div {
