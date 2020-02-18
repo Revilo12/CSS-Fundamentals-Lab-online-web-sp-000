@@ -37,6 +37,7 @@ section#details {
 
 section#details div {
   float: left;
+  display: block;
   margin-left: auto;
   margin-right: auto;
 }
