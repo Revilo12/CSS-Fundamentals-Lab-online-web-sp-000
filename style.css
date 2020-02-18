@@ -38,6 +38,7 @@ section#details {
 
 section#details div {
   float: left;
+  width: 25%
   margin: 4%;
   align-content: center;
 }
