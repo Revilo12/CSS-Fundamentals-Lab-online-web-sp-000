@@ -37,5 +37,5 @@ section#details {
 
 section#details div {
   float: left;
-  align-items: baseline;
+  align-items: center;
 }
