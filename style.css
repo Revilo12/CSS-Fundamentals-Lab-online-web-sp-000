@@ -33,9 +33,9 @@ section#featured-property p {
 
 section#details {
   display: block;
-  width: auto;
 }
 
 section#details div {
   float: left;
+  padding: inherit;
 }
