@@ -33,12 +33,10 @@ section#featured-property p {
 
 section#details {
   display: block;
-  text-align: center;
 }
 
 section#details div {
   float: left;
   width: 25%;
-  margin: 4%;
   align-content: center;
 }
