@@ -38,5 +38,5 @@ section#details {
 section#details div {
   float: left;
   width: 25%;
-  align-content: center;
+  text-align: center;
 }
