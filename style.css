@@ -36,8 +36,7 @@ section#details {
 }
 
 section#details div {
-  float: left;
-  width: 100 px;
-  margin-left: auto;
-  margin-right: auto;
+  display: block;
+  width: 80%;
+  margin: 0 auto;
 }
