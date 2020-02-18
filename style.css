@@ -30,3 +30,11 @@ section#featured-property p {
   width: 800 px;
   text-align: center;
 }
+
+section#details {
+  display: block;
+}
+
+section#details div {
+  float: left;
+}
