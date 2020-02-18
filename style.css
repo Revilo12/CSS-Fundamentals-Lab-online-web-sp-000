@@ -35,3 +35,7 @@ section#details {
   display: block;
 }
 
+section#detail div {
+  float: left;
+}
+
